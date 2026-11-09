@@ -6,3 +6,4 @@ psycopg[binary,pool]
 argon2-cffi
 ollama
 python-dotenv
+gunicorn
