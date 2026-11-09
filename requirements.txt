@@ -1,8 +1,8 @@
-Flask>=3.0.0
-flask-cors>=4.0.0
-flask-jwt-extended>=4.6.0
-flask-limiter>=3.5.0
-psycopg[binary,pool]>=3.1.0
-argon2-cffi>=23.1.0
-ollama>=0.3.0
+flask
+flask-cors
+flask-jwt-extended
+flask-limiter
+psycopg[binary,pool]
+argon2-cffi
+ollama
 python-dotenv
